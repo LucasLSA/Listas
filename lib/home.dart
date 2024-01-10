@@ -39,7 +39,7 @@ class _homeState extends State<home> {
             itemCount: 10,
             itemBuilder: (context, n){
 
-              //Map<String, dynamic> item = _itens[n];
+              //Map<String, dynamic> item = _itens[n];asdasda
               //print("numero ${_itens[n]["titulo"]}");sa
 
               return ListTile(
